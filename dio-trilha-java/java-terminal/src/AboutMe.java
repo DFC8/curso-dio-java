@@ -13,10 +13,10 @@ public class AboutMe {
         String sobrenome = scanner.nextLine();
 
         System.out.print("Digite sua idade: ");
-        Integer idade = scanner.nextInt();
+        int idade = scanner.nextInt();
 
         System.out.print("Digite sua altura: ");
-        Double altura = scanner.nextDouble();
+        double altura = scanner.nextDouble();
 
         scanner.close();
         
