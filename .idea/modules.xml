@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/desafio-dio-POO/desafio-dio-POO.iml" filepath="$PROJECT_DIR$/desafio-dio-POO/desafio-dio-POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-curso-java.iml" filepath="$PROJECT_DIR$/.idea/dio-curso-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios_java_dio/exercicios_java_dio.iml" filepath="$PROJECT_DIR$/exercicios_java_dio/exercicios_java_dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-trilha-java/java-terminal/java-terminal.iml" filepath="$PROJECT_DIR$/dio-trilha-java/java-terminal/java-terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-trilha-java/projeto_java/projeto_java.iml" filepath="$PROJECT_DIR$/dio-trilha-java/projeto_java/projeto_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-trilha-java/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/dio-trilha-java/sistema-smart-tv/sistema-smart-tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio-trilha-java/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/dio-trilha-java/tipos-variaveis/tipos-variaveis.iml" />
+    </modules>
+  </component>
+</project>
